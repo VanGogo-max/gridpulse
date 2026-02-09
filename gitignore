@@ -1,0 +1,17 @@
+# Чувствителни данни – НИКОГА да не се качват в GitHub!
+config.py
+.env
+
+# Логове
+logs/
+*.log
+*.log.gz
+
+# Python кеш
+__pycache__/
+*.pyc
+*.pyo
+
+# Виртуални среди
+venv/
+.env/
