@@ -19,7 +19,7 @@
 2. Отвори Termux и изпълни:
    ```bash
    pkg update && pkg install git python -y
-git clone https://github.com/VanGogo-max/spot-grid-bot-android.git
+https://github.com/VanGogo-max/spot-grid-bot-android.git
 cd spot-grid-bot-android
 pip install -r requirements.txt
 chmod +x run_bot.sh'''
