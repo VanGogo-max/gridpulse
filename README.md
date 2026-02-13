@@ -18,12 +18,11 @@
 1. Инсталирай **Termux** от F-Droid
 2. Отвори Termux и изпълни:
    ```bash
-   sudo apt update && sudo apt install git python3-pip -y
-   git clone https://github.com/твоя_потребител/spot_grid_bot.git
-   cd spot_grid_bot
-   pip3 install -r requirements.txt
+   pkg update && pkg install git python -y
+git clone https://github.com/VanGogo-max/spot-grid-bot-android.git
+cd spot-grid-bot-android
+pip install -r requirements.txt
 chmod +x run_bot.sh
- 
    ## 💰 Дарения в криптовалута
 
 Ако ботът ти помогне, можеш да подкрепиш развитието с дарение:
