@@ -12,10 +12,10 @@
 - [CoinEx](https://www.coinex.com) — без KYC
 
 ---
+## 📱 Инсталация за Android (Termux)
 
-## 📱 Инсталация за Android (UserLAnd)
 
-1. Инсталирай **UserLAnd** от Google Play.
+1. Инсталирай **Termux** от F-Droid
 2. Създай нова сесия → избери **Ubuntu**.
 3. Отвори терминал и изпълни:
    ```bash
