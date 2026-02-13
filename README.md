@@ -1,4 +1,4 @@
-# 🌍 Консервативен Spot Grid Бот — Без KYC | Android (UserLAnd)
+# 🌍 # 📊 Spot Grid Bot за Android (Termux)
 
 Автоматизиран бот за търговия на **MEXC, Gate.io, KuCoin, CoinEx** — без KYC, с риск 1%, цел $0.20–$0.80/ден.
 
