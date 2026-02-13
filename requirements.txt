@@ -2,3 +2,4 @@ requests==2.31.0
 numpy==1.26.4
 ccxt==4.3.0
 ta==0.11.0
+pandas
