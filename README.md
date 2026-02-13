@@ -22,6 +22,8 @@
    git clone https://github.com/твоя_потребител/spot_grid_bot.git
    cd spot_grid_bot
    pip3 install -r requirements.txt
+chmod +x run_bot.sh
+ 
    ## 💰 Дарения в криптовалута
 
 Ако ботът ти помогне, можеш да подкрепиш развитието с дарение:
