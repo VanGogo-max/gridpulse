@@ -322,7 +322,7 @@ TRADE_SYMBOLS = [
 
 POLYGON_RPC_URL = "https://polygon-rpc.com"  # Публичен RPC
 USDT_CONTRACT = "0xc2132D05D31c914a87C6611C10748AEb04B58e8F"  # USDT в Polygon
-
+POLYGONSCAN_API_KEY=V5CHMSVAYDQ9AUDPDN5AQ287EZ6Y5XTQAK
 # ========================================
 # ⚠️ ВАЖНО
 # ========================================
